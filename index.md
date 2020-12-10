@@ -2,4 +2,4 @@
 
 ### Guessing Game
 
-Here is the link to my [assignment](https:https://sjl8255.github.io/guessing-game/)
+Here is the link to my [assignment](https://sjl8255.github.io/guessing-game/)
